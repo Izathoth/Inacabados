@@ -114,7 +114,7 @@ import Braspy #Auxilia em tudo, axulia o procesamento do proprio sofware e evita
 """
 Versao 1.0 da brapsy:
     
-https://github.com/Soradevs/Braspy
+https://github.com/Izathoth/Braspy
     
 """
 
